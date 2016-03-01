@@ -1,5 +1,7 @@
 # Set minimum required CMake version to 2.8
 #Project File for demo
+#added some stupid feature
+
 cmake_minimum_required(VERSION 2.8)
 
 project(Demo)
